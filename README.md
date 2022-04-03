@@ -1,6 +1,9 @@
 # Tinder for Cats and Dogs challenge
 
-This is the sample app you can extend to build your solution for the Tinder for Cats and Dogs challenge.
+This is a sample implementation of the 2022 February challenge. It has a blog post series where I describe the
+implementation details.
+
+https://blog.dtengeri.com/series/tinder-for-cats-dogs
 
 You can find the challenge details at https://flutterchallenge.dev/tinder-for-cats-and-dogs
 
